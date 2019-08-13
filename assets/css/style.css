@@ -1,0 +1,64 @@
+body {
+    background: #ddd;
+    width: 1060px;
+
+}
+.All {
+    margin-left:25%;
+    width: 960px;
+}
+
+.Header {
+    padding: 0;
+    height: 90px;
+    background: #fff;
+}
+h1 {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+.My-Name {
+    float: left;    
+    Margin: 15px;
+    padding: 15px;
+    background: #4aaaa5;
+}
+
+li {
+    display: inline;
+    float: right;
+    padding: 5px;
+    font-family: 'Arial', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+       }
+ul {
+    margin-right: 75px;
+   
+}
+
+.Main-Body {
+    height:100%;
+    background: #fff;
+}
+
+.My-Pic {
+    float: left;
+    padding-right: 15px;
+    padding-left: 20px;
+   
+}
+.About-Me {
+    clear: both;
+    color: #4aaaa5;    
+    padding-top: 20px;
+    padding-left: 60px;
+}
+.My-Story {
+    padding-right: 20px;
+    padding-left: 20px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 22px;
+    letter-spacing:1px;
+}
+.Main-Body {
+
+}
