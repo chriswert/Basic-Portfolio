@@ -1,11 +1,7 @@
 body {
     background: #ddd;
   
-  }
-.All {
-  
-   
-   }
+    }
 
 .Header {
     padding: 0;
@@ -33,7 +29,7 @@ li {
     font-family: 'Arial', 'Helvetica Neue', Arial, Helvetica, sans-serif;
        }
 ul {
-    margin-right: 16%;
+    margin-right: 17%;
     padding-top: 12px;   
 }
 
@@ -153,7 +149,8 @@ input {
        text-align: center;
        font-size: 10px;
        position: relative;
-       top: -50px;
+       top: -35px;
+       
        
     }  
     
@@ -164,7 +161,7 @@ input {
        text-align: center;
        font-size: 10px;
        position: relative;
-       top: -50px;
+       top: -35px;
     }
 
     .Trivia {
@@ -174,7 +171,7 @@ input {
        text-align: center;
        font-size: 10px;
        position: relative;
-       top: -50px;
+       top: -35px;
     }
 
     .Rutgers {
@@ -184,7 +181,7 @@ input {
        text-align: center;
        font-size: 10px;
        position: relative;
-       top: -50px;
+       top: -35px;
     }
 
    .Rock {
@@ -194,10 +191,12 @@ input {
     text-align: center;
     font-size: 10px;
     position: relative;
-    top: -50px;
+    top: -35px;
    }
-   
-   .RPG-Button {
+
+  
+  
+   /*.RPG-Button {
        position: relative;
        top: -157px;
        left: 200px
