@@ -199,24 +199,24 @@ input {
    
    .RPG-Button {
        position: relative;
-       top: -186px;
-       left: 150px
+       top: -157px;
+       left: 200px
    }
 
    .Trivia-Button {
        position: relative;
-       top: -230px;
+       top: -150px;
    }
 
    .Rutgers-Button {
        Position: relative;
-       top: -416px;
-       left: 150px;
+       top: -310px;
+       left: 200px;
     }
 
     .Rock-Button {
         position: relative;
-        top: -460px;
+        top: -300px;
     }
 
   
