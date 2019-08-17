@@ -1,5 +1,5 @@
 body, html {
-    background-image: url(/assets/images/white-waves.png);
+    background-color: lightgray;
     height: auto 0; 
     position: relative;    
     }
@@ -42,8 +42,8 @@ ul {
     margin: 0 auto;
     border: solid black 1px;
     background: #fff;   
-    margin-top: 40px;
-  }
+    margin-top: 30px;
+    }
 
 .My-Pic {
     float: left;
@@ -75,7 +75,7 @@ ul {
     overflow: hidden;
     display: block;
     position: relative;
-    padding-bottom: 100px;
+    padding-bottom: 40px;
 }
 
 
@@ -84,14 +84,14 @@ footer {
     font-size: 18px;
     color: white;
     background: #666;
-    height: 60px; 
-   vertical-align: bottom; 
+    height: 50px; 
+   /*vertical-align: bottom;*/ 
    position: absolute;
     left: 0;
     right: 0;
     bottom: 0;
     border-top: solid #4aaaa5 10px;
-    margin-top: 40px;*
+    /*margin-top: 40px;*/
 }    
 
 
@@ -131,10 +131,10 @@ input {
 
 textarea {
     width: 860px;
-    height: 150px;
+    height: 125px;
     border: solid black .8px;
     padding: 5px;
-    margin: 15px
+    margin: 5px
 }
 
 input {
